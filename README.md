@@ -34,8 +34,9 @@
 
 `Linux`
 
-* `Debian` &nbsp; `Debian Maintainer`
-* `RedHat` &nbsp; `RHCSA: RedHat Certified System Administrator`
+&nbsp;&nbsp; `Debian` &nbsp; `Debian Maintainer`
+
+&nbsp;&nbsp; `RedHat` &nbsp; `RHCSA: RedHat Certified System Administrator`
 
 `macOS` &nbsp; `Windows Server`
 
@@ -123,8 +124,9 @@
 
 `Apache Hadoop`
 
-* `YARN`
-* `standalone` `single-node cluster` `fully-distributed cluster`
+&nbsp;&nbsp; `YARN`
+
+&nbsp;&nbsp; `standalone` `single-node cluster` `fully-distributed cluster`
 
 &nbsp;
 
@@ -132,7 +134,7 @@
 
 `Elastic Stack`
 
-* `Elasticsearch` &nbsp; `Logstash` &nbsp; `Kibana` &nbsp; `Beats`
+&nbsp;&nbsp; `Elasticsearch` &nbsp; `Logstash` &nbsp; `Kibana` &nbsp; `Beats`
 
 `Apache Spark`
 
@@ -166,8 +168,9 @@
 
 `PKI (TLS)`
 
-* `Certificate issuing automation with Intermediate CA issued by Self-signed CA`
-* `Let's Encrypt` &nbsp; `ACME`
+&nbsp;&nbsp; `Certificate issuing automation with Intermediate CA issued by Self-signed CA`
+
+&nbsp;&nbsp; `Let's Encrypt` &nbsp; `ACME`
 
 `GnuPG (OpenPGP)`
 
@@ -187,8 +190,9 @@
 
 `DNS`
 
-* `BIND 9` &nbsp; `Active Directory Domain Services (AD DS)`
-* `CloudFlare` &nbsp; `Google Cloud Domains`
+&nbsp;&nbsp; `BIND 9` &nbsp; `Active Directory Domain Services (AD DS)`
+
+&nbsp;&nbsp; `CloudFlare` &nbsp; `Google Cloud Domains`
 
 `LDAP` &nbsp; `OpenLDAP` &nbsp; `AD DS`
 
