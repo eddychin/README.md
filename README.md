@@ -34,8 +34,8 @@
 
 `Linux`
 
-* `Debian (roled as a Debian Maintainer)`
-* `RedHat (certified with RHCSA - RedHat Certified System Administrator)`
+* `Debian` &nbsp; `Debian Maintainer`
+* `RedHat` &nbsp; `RHCSA: RedHat Certified System Administrator`
 
 `macOS` &nbsp; `Windows Server`
 
