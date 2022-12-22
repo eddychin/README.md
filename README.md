@@ -122,19 +122,13 @@
 
 `Elasticsearch`
 
-`Apache Hadoop`
-
-&nbsp;&nbsp;&nbsp;&nbsp; `YARN`
-
-&nbsp;&nbsp;&nbsp;&nbsp; `standalone` `single-node cluster` `fully-distributed cluster`
+`Apache Hadoop` &nbsp; `YARN` &nbsp; `standalone` `single-node cluster` `fully-distributed cluster`
 
 &nbsp;
 
 #### Data analysis
 
-`Elastic Stack`
-
-&nbsp;&nbsp;&nbsp;&nbsp; `Elasticsearch` &nbsp; `Logstash` &nbsp; `Kibana` &nbsp; `Beats`
+`Elastic Stack` &nbsp; `Elasticsearch` &nbsp; `Logstash` &nbsp; `Kibana` &nbsp; `Beats`
 
 `Apache Spark`
 
@@ -166,11 +160,9 @@
 
 #### Key infrastructure
 
-`PKI (TLS)`
+`Certificate issuing automation with Intermediate CA issued by Self-signed CA`
 
-&nbsp;&nbsp;&nbsp;&nbsp; `Certificate issuing automation with Intermediate CA issued by Self-signed CA`
-
-&nbsp;&nbsp;&nbsp;&nbsp; `Let's Encrypt` &nbsp; `ACME`
+`Let's Encrypt` &nbsp; `ACME`
 
 `GnuPG (OpenPGP)`
 
@@ -178,9 +170,7 @@
 
 #### Mail server
 
-`POP` &nbsp; `IMAP` &nbsp; `Dovecot`
-
-`SMTP` &nbsp; `Sendmail` &nbsp; `Postfix`
+`Dovecot` &nbsp; `SMTP` &nbsp; `Sendmail` &nbsp; `Postfix`
 
 &nbsp;
 
@@ -188,14 +178,10 @@
 
 `Google Domains` &nbsp; `GoDaddy` &nbsp; `Gabia`
 
-`DNS`
+`CloudFlare` &nbsp; `Google Cloud Domains`
 
-&nbsp;&nbsp;&nbsp;&nbsp; `BIND 9` &nbsp; `Active Directory Domain Services (AD DS)`
+`BIND 9` &nbsp; `Active Directory Domain Services (AD DS)` &nbsp; `OpenLDAP`
 
-&nbsp;&nbsp;&nbsp;&nbsp; `CloudFlare` &nbsp; `Google Cloud Domains`
-
-`LDAP` &nbsp; `OpenLDAP` &nbsp; `AD DS`
-
-`DHCP` &nbsp; `ISC DHCP` &nbsp; `DHCP Server for Windows`
+`ISC DHCP` &nbsp; `DHCP Server for Windows`
 
 &nbsp;
